@@ -1,4 +1,5 @@
-Python Refresher - 1
+# Python Refresher - 1
+
 1. [Static vs Dynamic Typed Languages](https://medium.com/android-news/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b)
 2. [Variables vs Objects](https://www.practicaldatascience.org/html/vars_v_objects.html)
 3. [Register vs Memory](https://circuitglobe.com/difference-between-registers-and-memory.html)
@@ -11,7 +12,7 @@ Python Refresher - 1
 10. [Python Functions](https://www.scaler.com/topics/python/functions-in-python/)
 
 
-Python Refresher - 2
+# Python Refresher - 2
 
 1. [List Slicing Personal Notes](https://drive.google.com/file/d/1ewJy9r4KeBdJSjN5dlIGZ6HYBA_A7Bqw/view?usp=sharing)
 2. [Internals of List and Tuples (HW)](https://www.youtube.com/watch?v=rTgjOV0uTV0)
